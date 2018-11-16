@@ -1,0 +1,351 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"langi",
+				"landing"
+			],
+			[
+				"conte",
+				"content"
+			],
+			[
+				"cate",
+				"$categorias〔variable〕"
+			],
+			[
+				"mt",
+				"mt_rand"
+			],
+			[
+				"fun",
+				"function〔keyword〕"
+			],
+			[
+				"can",
+				"$cantidadProductos〔variable〕"
+			],
+			[
+				"random",
+				"randomElement"
+			],
+			[
+				"ran",
+				"randomElement〔function〕"
+			],
+			[
+				"cla",
+				"class"
+			],
+			[
+				"class",
+				"class\tclass …"
+			],
+			[
+				"P",
+				"PRODUCTO_DISPONIBLE"
+			],
+			[
+				"Ro",
+				"Route::middleware('auth:api')->get('/user"
+			],
+			[
+				"Alu",
+				"Alumnodoctorado〔class〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 569,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/xampp/htdocs/curso-mean2"
+	],
+	"file_history":
+	[
+		"/C/xampp/htdocs/curso-mean2/proyecto-curso-mean2.sublime-project",
+		"/C/laragon/www/app-shop/resources/views/layouts/app.blade.php",
+		"/C/laragon/www/app-shop/resources/views/welcome.blade.php",
+		"/C/laragon/www/app-shop/resources/views/auth/login.blade.php",
+		"/C/laragon/www/app-shop/resources/views/auth/form_register_ori_laravel.php",
+		"/C/laragon/www/app-shop/resources/views/auth/register.blade.php",
+		"/C/laragon/www/app-shop/Material-Kit-dise-o-usado-en-el-curso/material_kit_free_v1.1.1/examples/signup-page.html",
+		"/C/laragon/www/app-shop/Material-Kit-dise-o-usado-en-el-curso/material_kit_free_v1.1.1/examples/profile-page.html",
+		"/C/laragon/www/app-shop/resources/views/copia_welcome_ori_laravel.blade.php",
+		"/C/laragon/www/app-shop/resources/views/auth/copiaregister.blade.php",
+		"/C/laragon/www/app-shop/resources/views/layouts/copia_appasset.blade.php",
+		"/C/laragon/www/app-shop/resources/views/auth/form_login_ori_laravel.php",
+		"/C/laragon/www/app-shop/resources/views/auth/copialogin_asset.php",
+		"/C/laragon/www/app-shop/resources/views/auth/condicion_login.php",
+		"/C/laragon/www/app-shop/resources/views/auth/copia_login.blade.php",
+		"/C/laragon/www/app-shop/public/css/bootstrap.min.css",
+		"/C/laragon/www/app-shop/resources/views/layouts/copia_app.bladesincuerpo.php",
+		"/C/laragon/www/app-shop/resources/views/home.blade.php",
+		"/C/laragon/www/app-shop/routes/web.php",
+		"/C/laragon/www/app-shop/app/Http/Controllers/TestController.php",
+		"/C/laragon/www/app-shop/material-kit-html-v2.0.3/material-kit-html-v2.0.3/examples/profile-page.html",
+		"/C/laragon/www/app-shop/material-kit-html-v2.0.3/material-kit-html-v2.0.3/examples/signup-page.html",
+		"/C/laragon/www/app-shop/resources/views/layouts/copia_app.blade.php",
+		"/C/laragon/www/app-shop/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/app-shop/.env",
+		"/C/laragon/www/app-shop/resources/js/bootstrap.js",
+		"/C/laragon/www/APIRestful/database/factories/UserFactory.php",
+		"/C/laragon/www/APIRestful/resources/views/welcome.blade.php",
+		"/C/laragon/www/APIRestful/vendor/laravel/framework/src/Illuminate/Auth/Authenticatable.php",
+		"/C/laragon/www/APIRestful/database/seeds/DatabaseSeeder.php",
+		"/C/laragon/www/APIRestful/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/APIRestful/database/migrations/2018_10_22_203314_create_categories_table.php",
+		"/C/laragon/www/APIRestful/app/Transaction.php",
+		"/C/laragon/www/APIRestful/app/User.php",
+		"/C/laragon/www/APIRestful/app/Providers/RouteServiceProvider.php",
+		"/C/laragon/www/APIRestful/routes/api.php",
+		"/C/laragon/www/APIRestful/database/migrations/2018_10_23_005901_category_product_table.php",
+		"/C/laragon/www/APIRestful/database/migrations/2018_10_22_203033_create_products_table.php",
+		"/C/laragon/www/APIRestful/database/migrations/2018_10_22_203224_create_transactions_table.php",
+		"/C/laragon/www/APIRestful/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/APIRestful/app/Seller.php",
+		"/C/laragon/www/APIRestful/app/Category.php",
+		"/C/laragon/www/APIRestful/app/Product.php",
+		"/C/laragon/www/APIRestful/app/Buyer.php",
+		"/C/laragon/www/APIRestful/routes/web.php",
+		"/C/laragon/www/APIRestful/storage/framework/views/f204df9969b581fb9d114fb798665995252da0c5.php",
+		"/C/laragon/www/APIRestful/.env",
+		"/C/laragon/www/APIRestful/artisan",
+		"/C/laragon/www/APIRestful/.env.example",
+		"/C/laragon/www/APIRestful/.gitattributes",
+		"/C/laragon/www/APIRestful/public/index.php",
+		"/C/laragon/www/apibeca/database/migrations/2018_07_21_095351_create_becas_table.php",
+		"/C/laragon/www/apibeca/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/C/laragon/www/apibeca/app/Alumnodoctorado.php",
+		"/C/laragon/www/apibeca/app/Operacionb.php",
+		"/C/laragon/www/apibeca/app/Alumnopregrado.php",
+		"/C/laragon/www/apibeca/app/Beca.php",
+		"/C/laragon/www/apibeca/app/Alumnomaestria.php",
+		"/C/laragon/www/apibeca/app/Providers/AppServiceProvider.php",
+		"/C/laragon/www/apibeca/routes/api.php",
+		"/C/laragon/www/apibeca/app/User.php",
+		"/C/laragon/www/apibeca/routes/web.php",
+		"/C/laragon/www/APIRestful/resources/assets/js/app.js",
+		"/C/Users/Usuario/Desktop/Sublime Portable/Sublime Text Build 3176 x64/Data/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/C/Users/Usuario/Desktop/Sublime Portable/Sublime Text Build 3176 x64/Data/Packages/User/PHP Companion.sublime-settings",
+		"/C/laragon/www/APIRestful/vendor/laravel/framework/src/Illuminate/Notifications/Notifiable.php"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								473,
+								451
+							]
+						],
+						"settings":
+						{
+							"auto_complete": true,
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"home",
+				"resources\\views\\home.blade.php"
+			],
+			[
+				"appser",
+				"app\\Providers\\AppServiceProvider.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 380.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
